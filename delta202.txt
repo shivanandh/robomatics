@@ -1,0 +1,12 @@
+git reset --hard e400f2f
+alias "k=kubectl"
+alias "c=clear"
+alias "kgp=kubectl get po"
+alias "kg=kubectl get"
+alias "kds=kubectl describe"
+alias "kgpk=kubectl get po -n kube-system"
+alias "kga=kubectl get all"
+alias "kgaa=kubectl get all --all-namespaces"
+alias "kgpl=kubectl get po --show-labels"
+alias "kgpw=kubectl get po -o wide"
+alias "kdpf=kubectl delete pod --grace-period=0 --force"
