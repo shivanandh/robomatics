@@ -1,9 +1,5 @@
-This is to test git fetch
-
-sdg
-fgerg
-sdg
-
-
-
-sadg
+This is to test git pull
+.
+.
+.
+..........
